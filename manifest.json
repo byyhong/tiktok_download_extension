@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Hello Extensions",
+    "name": "tiktok download Extensions",
     "description": "Base Level Extension",
     "permissions": ["activeTab", "downloads", "scripting"],
     "version": "1.0",
